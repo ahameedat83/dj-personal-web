@@ -23,6 +23,3 @@ blog
  6- date
  7- views count
  8- comments 
-
-
-
